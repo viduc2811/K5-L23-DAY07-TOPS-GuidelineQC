@@ -19,4 +19,4 @@
 - Số ảnh phải calibration: 35 / 40 (theo ca lệch IAA); guideline v1.1 đổi nghĩa nên cần kiểm lại cả 40 ảnh
 - Vòng QC và số ảnh đã duyệt / cả lô: chưa thực hiện, 0 / 40
 - Tỉ lệ lỗi: … % theo ảnh (…/…), … % theo đối tượng (…/…)
-- **Quyết định** (Release / Hold / Rework) và lý do một dòng: Hold: chưa sửa nhãn calibration trong CVAT và chưa có vòng duyệt QC
+- **Quyết định** (Release / Hold / Rework) và lý do một dòng: Hold: chưa có vòng duyệt QC
