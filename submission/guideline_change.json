@@ -1,0 +1,1 @@
+{"kind": "semantic", "summary": "Thêm R-15 (cách đo occluded_level), R-16 (hai vật chồng nhau: mỗi vật một box theo lớp riêng), làm rõ R-12 cho xe bị che; đổi từ v1.0 sang v1.1"}
