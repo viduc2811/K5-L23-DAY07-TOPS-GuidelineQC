@@ -10,7 +10,7 @@
 
 - Người điều phối: Vi Thanh Đức
 - Người review bản cuối: 
-- Commit chốt bài (điền ở kênh nộp sau khi commit):
+- Commit chốt bài (điền ở kênh nộp sau khi commit): 3709ddd
 
 ## Kết quả tóm tắt (điền cuối bài)
 
