@@ -2,11 +2,11 @@
 
 - Tên nhóm: TOPS
 - Mã thành viên (ba chữ số):
- 051,
-061,
-217,
-049,
-064
+  Vi Thanh Đức: 051
+  Phạm Tiến Dũng: 061
+  Dương Quang Chung: 217
+  Trần Gia Huy: 049
+  Phạm Hoàng Minh: 064
 
 - Người điều phối: Vi Thanh Đức
 - Người review bản cuối: 
